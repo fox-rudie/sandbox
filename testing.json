@@ -1,4 +1,5 @@
 {
-  "url": "https://example.com/",
+  "website_url": "https://example.com/",
+  "image_url": "https://github.com/fox-rudie/sandbox/blob/main/image.png?raw=true",
   "name": "Test Object From GitHub"
 }
